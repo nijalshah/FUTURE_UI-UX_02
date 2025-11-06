@@ -23,5 +23,5 @@ The design emphasizes accessibility, calm color tones, and an empathetic user ex
 
 Figma, Unsplash, IconScout, Google Fonts
 
-🔗 View Prototype on Figma 
+🔗 View on Figma 
 https://www.figma.com/proto/S9SAdMOfQRZktZQxXfqBFs/02.-FITYOU-figma?node-id=24-5&p=f&t=gqwhWSQObC4Urn3M-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=24%3A5
